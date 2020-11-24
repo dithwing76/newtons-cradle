@@ -5,6 +5,7 @@ class Ball extends BaseClass {
   }
 
   display() {
+    fill("brown");
     //this.body.position.x = mouseX;
     //this.body.position.y = mouseY;
     super.display();
