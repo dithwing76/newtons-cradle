@@ -32,7 +32,7 @@ function setup(){
 }
 
 function draw(){
-    background("white");
+    background("black");
     Engine.update(engine);
     strokeWeight(4);
 
